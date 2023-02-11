@@ -1,4 +1,8 @@
 <?php 
+/**
+ * https://www.hackerrank.com/challenges/2d-array/problem 
+ * 
+ * */
 
 	function hourglassSum($arr) {
 	    $sum = 0;
